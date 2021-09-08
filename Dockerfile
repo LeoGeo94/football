@@ -1,4 +1,6 @@
-2. Fix Docker bla bla
+
+2. Fix Docker komplett neu
+
 #Fix einfügen
 
 ARG DOCKER_BASE
